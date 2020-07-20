@@ -1,4 +1,6 @@
 # Bloo
+- I have Developed an Android Application, where you can quickly and easily.
+- Developed using Kotlin (for frontend), Firebase (for backend).
 # Some ScreenShots Of App
 
 <img src="Screenshot_20200606-102021.png" data-canonical-src="Screenshot_20200606-102021.png" width="400" height="800" />
